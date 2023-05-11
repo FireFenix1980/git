@@ -42,3 +42,8 @@
 **Для просмотра историй действий с Head**
 
 > git reflog
+
+**Для удаления ветки**
+
+> git branch -d branch_name
+
