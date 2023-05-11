@@ -56,3 +56,7 @@
 
 > git branch -d branch_name
 
+
+**Для создания ветки и одновременный переход на нее**
+
+> git checkout -b Branch_name
