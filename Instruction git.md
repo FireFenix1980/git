@@ -48,3 +48,6 @@
 
 > git merge branch_name
 
+**Для перехода на новую ветку**
+
+> git checkout branch_name
