@@ -51,3 +51,8 @@
 **Для перехода на новую ветку**
 
 > git checkout branch_name
+
+**Для удаления ветки**
+
+> git branch -d branch_name
+
