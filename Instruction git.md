@@ -39,6 +39,12 @@
 **Для создания новой ветки**
 
 > git branch branch_name
+
 **Для просмотра историй действий с Head**
 
 > git reflog
+
+**Для слияния двух веток**
+
+> git merge branch_name
+
